@@ -1,0 +1,26 @@
+==Release notes_BT Font==
+
+Compiler of release notes: Dalton Maag
+Designer: Dalton Maag
+Designer URL: daltonmaag.com
+
+Date of creation: 2013-10-08
+
+Changes since previous release:
+- Family naming changed from 'BT TV' to 'BT Font'.
+
+Basic information
+1 Basic Family name: BT Font
+2 TrueType Version record: 1.000
+3 Regional package: Latin
+4 Supported scripts: Latin
+5 Number of glyphs: 523
+6 Weights/Styles: Light, Regular, Bold, ExtraBold.
+7 Usage: -
+
+
+Technology
+1 File formats: The files have been delivered in the TrueType-based OpenType format.
+2 Embedding settings: Installable embedding
+3 Hinting information: All glyphs are manually Level 2 (horizontal and vertical directions) hinted.
+4 Default numerals: Tabular numerals.
